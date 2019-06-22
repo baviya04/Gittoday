@@ -16,7 +16,7 @@ public class CalculatorAdd {
     public int add()
     {
         //Object a;
-        int c = a + b;
+        int c = a * b;
         return c;
     }
 }
